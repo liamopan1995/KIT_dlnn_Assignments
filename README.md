@@ -4,9 +4,10 @@ My personal solutions to  final Assignments from Lecture 2400024 – Deep Learni
  
  Assigments details found in here:
  
- Description: https://ilias.studium.kit.edu/ilias.php?ref_id=1831237&cmd=view&cmdClass=ilrepositorygui&cmdNode=x1&baseClass=ilRepositoryGUI
+ Description:( university account required) https://ilias.studium.kit.edu/ilias.php?ref_id=1831237&cmd=view&cmdClass=ilrepositorygui&cmdNode=x1&baseClass=ilRepositoryGUI
  
  Colabfiles:
+ 
  https://colab.research.google.com/drive/1cphNrPfLHyG68GfUFJ8_DhOXfF9UvPfY?usp=sharing
  https://colab.research.google.com/drive/1EA0Pj4JX8xhzRwmzO_YnaUQLFYGIr8GY?usp=sharing
  https://colab.research.google.com/drive/1XsOaOgqUXULFUZg1dDKa9a26qha4C-PE?usp=sharing
